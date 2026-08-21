@@ -1,0 +1,51 @@
+customer_id,name,age,gender,email,phone,city,join_date,salary,purchases,status
+1001,"John Smith",25,M,john.smith@gmail.com,9876543210,"New York",2023-01-15,"$45,000",12,Active
+1002,"  alice johnson ",30,F,alice.j@gmail.com,+1-555-234-5678,"los angeles",15/02/2023,52000,8,active
+1003,"Bob Williams",,"Male",bob.williams@gmail,5551234567,"Chicago ",2023/03/10,"48,500",15,ACTIVE
+1004,"CHARLIE BROWN",-5,m,charlie@email.com,"(555) 987-1234","Houston",10-04-2023,$60000,20,Inactive
+1005,"David Miller",29,M,N/A,555.222.3333,"Phoenix","April 12 2023","$55,000",unknown,active
+1006,"Emily Davis",35,F,emily.davis@gmail.com,9876543211,"New York",2023-05-01,62000,18,Active
+1007,"Frank Wilson",150,M,frankwilson@gmail.com,123456,"Boston",2023/05/14,"70000",25,ACTIVE
+1008,"Grace Taylor","32 ",Female,grace.taylor@gmail.com,+91 98765 43210,"Miami",14-06-2023,"$68,000",22,active
+1009,"Henry Moore",NaN,M,henry.moore@gmail.com,555-444-8888,"Chicago",2023-06-20,"65,000",19,Inactive
+1010,"Isabella Clark",28,F,isabella.clark@gmail.com,5554449999,"Seattle ","20/07/2023",58000,16,Active
+1011,"Jack Lewis",31,M,jack.lewis@gmail.com,"+1 555 111 2222","new york",2023.08.01,"$72,000",30,active
+1012,"Karen Walker",27,F,karen.walker@,5551112223,"Los Angeles",2023-08-15,"51000 ",14,ACTIVE
+1013,"Liam Hall","unknown",M,liam.hall@gmail.com,5551112224,"Chicago",2023-09-01,"$49,000",9,Inactive
+1014,"Mia Allen",26,F,mia.allen@gmail.com,5551112225,"Boston",2023-09-18,53000,17,active
+1015,"Noah Young",34,M,noah.young@gmail.com,5551112226,"Houston",2023-10-05,"$61,000",21,Active
+1016,"Olivia King",29,F,olivia.king@gmail.com,5551112227,"Phoenix",2023-10-20,"59000",13,active
+1017,"Peter Wright",NULL,M,peter.wright@gmail.com,5551112228,"Miami",2023-11-01,"$64,000",18,Inactive
+1018,"Quinn Scott",33,F,quinn.scott@gmail.com,5551112229,"Seattle",01-11-2023,"67,500",20,Active
+1019,"Ryan Green",40,M,ryan.green@gmail.com,5551112230,"New York",2023/11/15,"$75,000",35,ACTIVE
+1020,"Sophia Adams",24,F,sophia.adams@gmail.com,5551112231,"Los angeles",2023-12-01,47000,10,active
+1021,"Tom Baker",31,M,tom.baker@gmail.com,5551112232,"Chicago",2023-12-15,"$58,000",-2,Active
+1022,"Uma Carter",28,F,uma.carter@gmail.com,5551112233,"Boston",2024-01-01,"52k",12,Inactive
+1023,"Victor Perez",36,M,victor.perez@gmail.com,5551112234,"Houston",2024-01-10,"$66,000",24,ACTIVE
+1024,"Wendy Turner",27,F,wendy.turner@gmail.com,5551112235,"Phoenix",2024-01-20,"54000",15,active
+1025,"Xavier Collins",NaN,M,xavier.collins@gmail.com,5551112236,"Miami",2024-02-01,"$71,000",28,Active
+1026,"Yara Stewart",30,F,yara.stewart@gmail.com,5551112237,"Seattle",2024-02-14,"$63,000",19,Inactive
+1027,"Zack Morris",22,M,zack.morris@gmail.com,5551112238,"New York",2024-02-30,"$42,000",7,active
+1028,"john smith",25,M,john.smith@gmail.com,9876543210,"New york",2023-01-15,"45000",12,Active
+1029,"Alice Johnson ",30,F,alice.j@gmail.com,+1-555-234-5678,"Los Angeles",2023-02-15,52000,8,ACTIVE
+1030,"Bob Williams",NULL,M,bob.williams@gmail.com,5551234567,"Chicago",10/03/2023,"48,500",15,active
+1031,"Charlie Brown",45,M,charlie@email.com,5559871234,"Houston",2023-04-10,"$60,000",20,Inactive
+1032,"DAVID MILLER",29,M,david.miller@gmail.com,5552223333,"Phoenix",2023-04-12,"55000",11,Active
+1033,"Emily Davis",35,F,emily.davis@gmail.com,9876543211,"New York",2023-05-01,62000,18,Active
+1034,"Frank Wilson",38,M,frankwilson@gmail.com,5557778888,"Boston",2023-05-14,"70000",25,active
+1035,"Grace Taylor",32,F,grace.taylor@gmail.com,9876543212,"Miami",2023-06-14,"$68,000",22,ACTIVE
+1036,"Henry Moore",39,M,henry.moore@gmail.com,5554448888,"Chicago",2023-06-20,"65,000",19,Inactive
+1037,"Isabella Clark",28,F,isabella.clark@gmail.com,5554449999,"Seattle",2023-07-20,58000,16,Active
+1038,"Jack Lewis",31,M,jack.lewis@gmail.com,5551112222,"New York",2023-08-01,"72000",30,active
+1039,"Karen Walker",27,F,karen.walker@gmail.com,5551112223,"Los Angeles",2023-08-15,"51,000",14,ACTIVE
+1040,"Liam Hall",33,M,liam.hall@gmail.com,5551112224,"Chicago",2023-09-01,"49000",9,Inactive
+1041,"Mia Allen",26,F,mia.allen@gmail.com,5551112225,"Boston",2023-09-18,53000,17,active
+1042,"Noah Young",34,M,noah.young@gmail.com,5551112226,"Houston",2023-10-05,"$61,000",21,Active
+1043,"Olivia King",29,F,olivia.king@gmail.com,5551112227,"Phoenix",2023-10-20,59000,13,active
+1044,"Peter Wright",37,M,peter.wright@gmail.com,5551112228,"Miami",2023-11-01,"64000",18,Inactive
+1045,"Quinn Scott",33,F,quinn.scott@gmail.com,5551112229,"Seattle",2023-11-01,"67,500",20,Active
+1046,"Ryan Green",40,M,ryan.green@gmail.com,5551112230,"New York",2023-11-15,"$75000",35,ACTIVE
+1047,"Sophia Adams",24,F,sophia.adams@gmail.com,5551112231,"Los Angeles",2023-12-01,"47000",10,active
+1048,"Tom Baker",31,M,tom.baker@gmail.com,5551112232,"Chicago",2023-12-15,"58,000",0,Active
+1049,"Uma Carter",28,F,uma.carter@gmail.com,5551112233,"Boston",2024-01-01,"52000",12,Inactive
+1050,"Victor Perez",999,M,victor.perez@gmail.com,5551112234,"Houston",2024-01-10,"$660,000",24,ACTIVE
