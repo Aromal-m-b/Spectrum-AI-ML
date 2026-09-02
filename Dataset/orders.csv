@@ -1,0 +1,51 @@
+order_id,customer_name,product,category,quantity,unit_price,total_price,order_date,payment_method,status,rating
+ORD-1001,"Arun Kumar","Wireless Mouse","Electronics",2,"$25.99","51.98","2024-01-15","Credit Card","Delivered",4.5
+ORD-1002,"  Priya Nair ","wireless mouse ","electronics","3","25.99","77.97","15/01/2024","credit card","delivered","5"
+ORD1003,"Rahul Menon","Mechanical Keyboard","Electronics",1,"$89.50","89.5","2024/01/20","UPI","DELIVERED",4
+ORD-1004,"Sneha Das","Laptop Stand","Electronics",0,"$45","0","2024-02-30","upi","Pending",NaN
+ORD-1005,"Vijay Kumar","USB-C Cable","Accessories",-2,"$12.99","-25.98","March 5 2024","Cash","Cancelled",3
+ORD-1006,"Anjali Roy","usb c cable","accessories",5,"12.99","64.95","2024-03-05","cash","DELIVERED",4.0
+ORD-1007,"Mohammed Ali","Monitor","Electronics",1,"₹25,000","25000","05-03-2024","Credit card","Delivered",5
+ORD-1008,"Neha Joseph","monitor ","Electronics","one","$300","300","2024.03.10","CARD","delivered",4
+ORD-1009,"Arjun S","Laptop","electronics",1,"$1,200","1200","10/03/24","credit_card","Delivered",5
+ORD-1010,"Meera Raj","Laptop",1,1,"1200 USD","1200","2024-03-12","Credit Card","DELIVERED",4.8
+ORD-1011,"Rohan Paul","Headphones","Electronics",2,"$75","150","2024-03-15","UPI","Delivered",6
+ORD-1012,"Diya Thomas","Bluetooth Speaker","electronics",3,"$49.99","149.97","15-03-2024","upi","delivered",-1
+ORD-1013,"Kiran Varma","bluetooth speaker ","Electronics",3,"49.99","149.97","2024/03/15","UPI","Delivered",4
+ORD-1014,"Asha George","Smart Watch","Wearables",1,"$199","199","2024-03-20","Credit Card","Shipped",4.2
+ORD-1015,"Ravi Pillai","Smartwatch","wearable",1,"$199","199","20/03/2024","credit card","SHIPPED",4
+ORD-1016,"Nikhil John","Power Bank","Accessories",2,"$39.99","79.98","2024-03-25","COD","Delivered",NaN
+ORD-1017,"Fathima K","powerbank","accessories","2","39.99","79.98","2024-03-25","Cash on Delivery","delivered",3.5
+ORD-1018,"Aditya S","Webcam","Electronics",1,"$60","60","2024-04-01","UPI","Returned",2
+ORD-1019,"Lakshmi Devi","Web Cam","electronics",1,"60","60","01/04/2024","upi","RETURNED",2.0
+ORD-1020,"Suresh B","External HDD","Storage",1,"$89.99","89.99","2024-04-05","Credit Card","Delivered",4
+ORD-1021,"Jaya Krishnan","external hard disk","storage",1,"89.99","89.99","05/04/2024","CARD","delivered",4.5
+ORD-1022,"Anoop K","SSD","Storage",2,"$110","220","2024-04-10","UPI","Delivered",5
+ORD-1023,"Sharon Paul","ssd ","storage",2,"110","220","2024-04-10","upi","Delivered","five"
+ORD-1024,"Tony Mathew","Gaming Mouse","Electronics",1,"$59.99","59.99","2024-04-15","Credit Card","Delivered",4
+ORD-1025,"  Tony Mathew","gaming mouse","electronics",1,"59.99","59.99","15/04/2024","credit card","delivered",4
+ORD-1026,"Binu Thomas","Keyboard","Electronics",NULL,"$40","80","2024-04-20","UPI","Delivered",3
+ORD-1027,"Reshma R","Keyboard","electronics",2,"40","80","2024-04-20","upi","DELIVERED",3
+ORD-1028,"Akash Dev","Phone Case","Accessories",10,"$15","150","2024-04-25","Cash","Delivered",4
+ORD-1029,"Nisha M","phonecase ","accessories","10","15","150","25/04/2024","cash","delivered",4
+ORD-1030,"George T","Tablet","Electronics",1,"$500","500","2024-04-31","Credit Card","Pending",4
+ORD-1031,"Sanjay P","Tablet","electronics",1,"500","500","2024-05-01","CARD","Delivered",4
+ORD-1032,"Maya S","Printer","Electronics",1,"$250","250","2024-05-05","UPI","Delivered",3
+ORD-1033,"MAYA S ","printer ","electronics",1,"250","250","05/05/2024","upi","DELIVERED",3
+ORD-1034,"Joseph K","Router","Networking",2,"$80","160","2024-05-10","Credit Card","Delivered",4
+ORD-1035,"Anna Rose","WiFi Router","network",2,"80","160","10/05/2024","credit card","Delivered",4
+ORD-1036,"Hari Menon","Ethernet Cable","Accessories",5,"$10","50","2024-05-15","Cash","Delivered",4
+ORD-1037,"hari menon","ethernet cable ","accessories",5,"10","50","2024/05/15","cash","DELIVERED",4
+ORD-1038,"Deepa K","Laptop Charger","Electronics",1,"$75","75","2024-05-20","UPI","Cancelled",NaN
+ORD-1039,"Vivek R","laptop charger","electronics",1,"75","75","20-05-2024","upi","Delivered",4
+ORD-1040,"Anu Paul","Microphone","Electronics",2,"$99.99","199.98","2024-06-01","Credit Card","Delivered",5
+ORD-1041,"Rakesh N","micro phone","electronics",2,"99.99","199.98","01/06/2024","credit card","delivered",5
+ORD-1042,"Sara John","Camera",1,1,"$450","450","2024-06-05","UPI","Delivered",4
+ORD-1043,"Ben George","camera ","Electronics",1,"450","450","2024-06-05","upi","DELIVERED",4
+ORD-1044,"Irfan K","Drone","Electronics",1,"$800","800","2024-06-10","Credit Card","Delivered",10
+ORD-1045,"Kavya S","Drone","electronics",1,"800","800","10/06/2024","credit card","delivered",5
+ORD-1046,"Manu P","USB Hub","Accessories",3,"$29.99","89.97","2024-06-15","UPI","Delivered",4
+ORD-1047,"Anjali Roy","usb hub","accessories",3,"29.99","89.97","15/06/2024","upi","delivered",4
+ORD-1048,"Rahul Menon","Mechanical Keyboard","Electronics",1,"$89.50","89.5","2024/01/20","UPI","DELIVERED",4
+ORD-1049,"Unknown","N/A","-",NaN,"unknown","NaN","not a date","???","Unknown",NaN
+ORD-1050,"Priya Nair","Wireless Mouse","Electronics",999,"$25.99","25948.01","2024-06-20","Credit Card","Delivered",4
